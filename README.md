@@ -22,6 +22,6 @@ The design of this software product mainly focuses on the procedure of receiving
 
 # DEMO
 
-[![Video Thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=RHRNaMWIIbk))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/RHRNaMWIIbk/0.jpg)](https://www.youtube.com/watch?v=RHRNaMWIIbk)
 
 
