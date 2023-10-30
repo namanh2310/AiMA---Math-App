@@ -22,6 +22,6 @@ The design of this software product mainly focuses on the procedure of receiving
 
 # DEMO
 
-![image](https://github.com/namanh2310/AiMa-Mathematics-Mobile-App/assets/101866057/3fc6441b-6efa-47c3-b080-8e36d827120d)
+[![Video Thumbnail](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=RHRNaMWIIbk))
 
 
