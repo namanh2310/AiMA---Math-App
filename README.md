@@ -22,6 +22,6 @@ The design of this software product mainly focuses on the procedure of receiving
 
 # DEMO
 
-[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://www.youtube.com/watch?v=RHRNaMWIIbk)
+[![Everything Is AWESOME]([https://i.stack.imgur.com/q3ceS.png](https://media.geeksforgeeks.org/wp-content/uploads/20230503013704/Mathematics-Banner.webp)https://media.geeksforgeeks.org/wp-content/uploads/20230503013704/Mathematics-Banner.webp)](https://www.youtube.com/watch?v=RHRNaMWIIbk)
 
 
